@@ -68,6 +68,14 @@ button:hover {
     font-size: 12px;
 }
 
+.action-link {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 13px;
+    color: #334155;
+}
+
+.action-link a,
 .back-link {
     color: #2563eb;
     text-decoration: none;
